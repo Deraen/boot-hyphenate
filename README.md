@@ -2,7 +2,7 @@
 [![Clojars Project](http://clojars.org/deraen/boot-hyphenate/latest-version.svg)](http://clojars.org/deraen/boot-hyphenate)
 
 [Boot](https://github.com/boot-clj/boot) task to hyphenate HTML files using
-[clj-hyphenate](https://github.com/Deraen/clj-hyphenate/tree/master/src/clj_hyphenate/patterns).
+[clj-hyphenate](https://github.com/Deraen/clj-hyphenate).
 
 ## Use
 
